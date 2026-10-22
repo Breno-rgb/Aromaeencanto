@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://aromaeencantoscs.com.br/sitemap.xml
